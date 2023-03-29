@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+.vscode
+EFI
+$RECYCLE.BIN/
+BOOTNXT
+Boot/
+System Volume Information/
+bootmgr
