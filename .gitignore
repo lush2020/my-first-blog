@@ -10,3 +10,5 @@ BOOTNXT
 Boot/
 System Volume Information/
 bootmgr
+配置文件.txt
+from whitenoise.py
